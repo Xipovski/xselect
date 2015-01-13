@@ -1,3 +1,11 @@
+/*! Copyright (c) 2015 Tsoy Andrey
+* Licensed under the MIT License (license.txt).
+*
+* Version: 1.0.0
+*
+* Requires: jQuery
+*/
+
 $.fn.xSelect = function(_options) {
 
 	var _options = $.extend({}, _options);
