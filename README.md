@@ -1,2 +1,2 @@
-# xselect
+# xselect.js
 custom select
