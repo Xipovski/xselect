@@ -1,8 +1,8 @@
-/*! Copyright (c) 2015 Tsoy Andrey
+/*! Copyright (c) 2015 Tsoy Andrey (Xipovski)
 * Licensed under the MIT License (license.txt).
 *
-* Version: 1.0.0
-*
+* Version: 1.0.1
+* https://github.com/xipovski/xselect
 * Requires: jQuery
 */
 
